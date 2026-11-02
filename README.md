@@ -1,6 +1,9 @@
+# Tes ARRE Tech
+
+
 # Sistem Manajemen Data Siswa
 
-Aplikasi berbasis web untuk mengelola data siswa yang dibangun menggunakan **Laravel 12**, PHP, dan MySQL. Aplikasi ini menyediakan fitur autentikasi pengguna dan pengelolaan data siswa.
+Aplikasi berbasis web untuk mengelola data siswa 
 
 ## 1. Fitur Aplikasi
 
